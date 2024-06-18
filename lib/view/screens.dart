@@ -1,0 +1,9 @@
+export 'home/home.dart';
+export 'home/widgets/bottom_nav.dart';
+export 'home/widgets/carousel_card_widget.dart';
+export 'home/widgets/connect_now_card.dart';
+export 'home/widgets/explore_button.dart';
+export 'home/widgets/mock_tests_button.dart';
+export 'home/widgets/recently_play_card.dart';
+export 'home/widgets/title_widget.dart';
+export 'home/widgets/welcome_banner.dart';
